@@ -1,6 +1,4 @@
-﻿//201821054 미디어학과 하태선 1차과제
-
-#include<iostream>
+﻿#include<iostream>
 #include<array>
 #include<vector>
 #include <opencv2/highgui.hpp>

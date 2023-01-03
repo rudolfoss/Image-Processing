@@ -1,6 +1,4 @@
-﻿//201821054 미디어학과 하태선 
-
-#include <iostream>
+﻿#include <iostream>
 #include <vector>
 #include <ctime>
 #include<stdlib.h>
